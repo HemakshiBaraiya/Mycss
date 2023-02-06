@@ -1,0 +1,157 @@
+body{
+    background-color: #ECE8DD;
+    margin: 0;
+    text-align: center;
+    color:#00337C;
+    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+    
+}
+
+
+.topcontainer{
+    
+    position: relative;
+    padding-top: 100px;
+    size:100%;
+    background-color: #A0C3D2;
+}
+p{
+    font-size:20px;
+    display: block;
+    width:20%;
+    margin: 0 auto  0 auto;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.Web{
+    text-decoration: underline;
+}
+
+#bottomcloud{
+    position:absolute;
+    top: 200px;
+    bottom:300px;  
+}
+#topcloud{
+    position:absolute;
+    top:50px;
+    right:250px;   
+}
+.middlecontainer{
+   
+    padding:50px;
+}
+.profile img{
+    height: 150px;
+    width:150px;
+}
+
+.profile p{
+    width: 40%;
+    font-family: serif;
+    font-size: 18px;
+    color: #C27664;
+}
+.bottomcontainer{
+    padding: 30px;
+    height:auto;
+    width:auto;
+    
+}
+ #skills{
+    position: relative;
+    height:auto;
+    margin: 15px 80px 20px;
+    width:auto;
+    
+}
+.bottomcontainer .img1{
+    height: 150px;
+    width:150px;
+    left:300px;
+    position: absolute;
+}
+
+.bottomcontainer .design {
+    height: 50px;
+    width:50px;
+   left:450px;
+    position: absolute;
+    top:50px;
+    margin:20px;
+}
+
+.content
+{
+    height:auto;
+    width: 350px;
+    position: relative;
+    left:530px;
+    padding:20px;
+}
+.content2
+{
+    height:auto;
+    width: 300px;
+    position: relative;
+    left:200px;
+    padding:20px;
+}
+#skills2{
+    position: relative;
+    height:auto;
+    margin:15px 80px;
+    width:auto;
+    
+    
+}
+.bottomcontainer .img2{
+    height: 150px;
+    width:150px;
+    position: absolute;
+    right:280px;
+    bottom:10px;
+}
+.bottomcontainer .design2 {
+    height: 50px;
+    width:50px;
+    position: absolute;
+    top:50px;
+   
+    margin:20px;
+    
+}
+.bottomcontainer h3{
+    padding:10px;
+    margin:0;
+    text-align: left;
+}
+.bottomcontainer p{
+    right:30px;
+    width: 300px;
+    margin:0;
+    padding:10px;
+    text-align: left;
+    font-family: serif;
+    font-size: 18px;
+    color: #C27664;
+}
+.thirdcontainer{
+    height:auto;
+    width:100%;
+    margin-top:40px;
+}
+.thirdcontainer p{
+    width: 50%;
+    font-family: serif;
+    font-size: 18px;
+    color: #C27664;
+    
+}
+button{
+    background-color: #00337C;
+    height: 40px;
+    width:120px;
+    color:white;
+    border-radius: 5px;
+    margin:30px 20px ;
+}
